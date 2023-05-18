@@ -38,6 +38,6 @@ I hope to land a job in tech that will let me stand out from the crowd.
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-![](https://github-readme-stats.vercel.app/api?username=AkiraHere-HERE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=AkiraHere&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
 <a href = 'https://www.linkedin.com/in/AkiraHere'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
