@@ -12,10 +12,11 @@
 
 ## 🌱 About me
 Currently studying Computer Science at the University of Otago. 
-My interests are in security, cloud and game development.
+My interests are in software, web, cloud and game development.
 
 ## 🎓 Goals 
-I hope to land a job in tech that will let me stand out from the crowd.
+Hoping to finish my Diploma for Graduates at Otago with A+ overall, then bringing what I've learned to the workforce 
+through an internship in software engineering, game development or web development.
 
 ## 🧑‍💻 Skills
 
@@ -34,7 +35,7 @@ I hope to land a job in tech that will let me stand out from the crowd.
 ## 🏆 Side projects
 - Personal Website CV
 - HEMA Referee App
-- Small Scale Game Projects
+- Small Game Projects
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
